@@ -1,0 +1,15 @@
+{
+  "name": "sample-node-heroku",
+  "version": "1.0.0",
+  "description": "A sample app to deploy with the Heroku 16 stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Danny",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
